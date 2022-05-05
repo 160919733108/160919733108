@@ -2,7 +2,7 @@
 <h1 align="center">Suhail Roushan</h1>
 <h2 align="center">Fellow at CS.CODE.IN Class of 2021 </h2>
 
-<!--  <a href="https://app.daily.dev/suhailroushan"><img src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=gb4" width="160" height="200" alt="Suhail Roushan's Dev Card"/></a> -->
+ <a href="https://app.daily.dev/suhailroushan"><img src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=gb4" width="160" height="200" alt="Suhail Roushan's Dev Card"/></a>
 
  <br> 📌 Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"><br>
 I'm [𝗦𝘂𝗵𝗮𝗶𝗹 𝗥𝗼𝘂𝘀𝗵𝗮𝗻](https://suhailroushan.com) A Pre - Final Year Engineering Student practicing in 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 from 𝗟𝗼𝗿𝗱𝘀 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆,Hyderabad. I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.<br>
@@ -13,13 +13,13 @@ Having an Experience in 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲�
 📌𝗔 𝗙𝗲𝘄 𝗪𝗼𝗿𝗱𝘀 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 :<br>
  A Guy with having Creativity + Coding Knowledge to Build Products which would Help people by using them. I would like to Solve problems using Updated Technology and making it more helpful. Programming isn't about what you know; it's about what you can figure out<br>
 
-**Obsessed with** <br>
-✔️ Startups🚀 
-✔️ Web3.0💻
-✔️ Marketing 🤳 
-✔️ Designing ✏️ 
-✔️ Coding 🧑‍💻 
-✔️ Domains🤑 
+**Obsessed with** 🤗<br>
+-  Startups🚀 
+-  Web3.0💻
+-  Marketing 🤳 
+-  Designing ✏️ 
+-  Coding 🧑‍💻 
+-  Domains🤑 
           
 <hr />
 
@@ -41,7 +41,7 @@ Having an Experience in 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲�
 
 <!-- BLOG-POST-LIST:START -->
 - [Billion Dollar Cyber Attack Ransomwares💲🧑‍💻](https://suhailroushan.medium.com/billion-dollar-cyber-attack-ransomwares-7e9878c5f496)
-- [Shallo Copy and Deep Copy In JavaScript 💫](https://suhailroushan.medium.com/you-dont-know-how-javascript-copy-variables-shallow-copy-ba043788a6cd)
+- [Shallow Copy and Deep Copy In JavaScript 💫](https://suhailroushan.medium.com/you-dont-know-how-javascript-copy-variables-shallow-copy-ba043788a6cd)
 - [How to Copy Paste Files in 100MB's Speed 🏎️](https://suhailroushan.medium.com/how-to-copy-paste-files-in-100mbs-speed-e8b1e31e18f0)
 - [Get Your Free SSL ✅](https://suhailroushan.medium.com/free-ssl-38ad1ec18a52)
 - [Encode Your Messages Using Base64 🛅](https://suhailroushan.medium.com/encode-your-messages-using-base64-315d2c0420ce)
@@ -53,29 +53,27 @@ Having an Experience in 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲�
 
 ➡️ [more blog posts...](https://suhailroushan.medium.com/)
 
----
+<hr />
 
+## 📈 GitHub Stats 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suhailroushan13&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/suhailroushan13/count.svg" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suhailroushan13&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<h2 align="left">:handshake: Connect With Me</h2>
 
 
-<h2 align="left">:handshake: Let's get connected:</h2>
-
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/suhailroushan/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/suhailroushan.in"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://suhailroushan.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
+<a href="https://www.linkedin.com/in/suhailroushan/"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/linkedin.png" alt="Suhail Roushan | LinkedIn" width="40px"/></a>
+<a href="https://instagram.com/suhailroushan.in"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/insta.png" alt="Suhail Roushan | Instagram" width="40px"/></a>
+<a href="https://suhailroushan.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Suhail Roushan | Medium" width="40px"/></a>
+<a href="https://www.facebook.com/your.suhailroushan/"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/facebook.png" alt="Suhail Roushan | Facebook" width="40px"/></a>
+<a href="https://twitter.com/suhailroushan13"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/twitter.png" alt="Suhail Roushan | Twitter" width="40px"/></a>
+<a href="https://suhailroushan.com"><img align="left" src="https://raw.githubusercontent.com/suhailroushan/suhailroushan/main/suhailroushann.png" alt="Suhail Roushan | Website" width="40px"/></a>
+<br>
+<br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-suhailroushan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suhailroushan/)](https://www.linkedin.com/in/suhailroushan/) [![Twitter
-Badge](https://img.shields.io/badge/-@suhailroushan13-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/suhailroushan13)](https://twitter.com/suhailroushan13) [![Facebook
-Badge](https://img.shields.io/badge/-@suhailroushan13-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/your.suhailroushan/)](https://www.facebook.com/your.suhailroushan/) [![Instagram
-Badge](https://img.shields.io/badge/-@suhailroushan.in-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/suhailroushan.in/)](https://www.instagram.com/suhailroushan.in/)
-[![Linkedin Badge](https://img.shields.io/badge/-suhailroushan.com-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://suhailroushan.com/)](https://suhailroushan.com/)
 
