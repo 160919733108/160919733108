@@ -34,7 +34,7 @@ Available on [GitHub Repo 📁](https://github.com/suhailroushan13/365days.codes
 [Metacode.live 🧑‍💻](https://suhailroushan.com/progress.html)  (Live 2023-24)  ⏳  <br>
 [Memes.school🎒](https://suhailroushan.com/progress.html)  (Live 2023-24)  ⏳  <br>
 
-<a href="https://app.daily.dev/suhailroushan"><img src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=gb4" width="200" height="300" alt="Suhail Roushan's Dev Card"/></a>
+<a href="https://app.daily.dev/suhailroushan"><img src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=gb4" width="250" height="300" alt="Suhail Roushan's Dev Card"/></a>
 
 
 
