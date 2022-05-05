@@ -2,11 +2,11 @@
 <h1 align="center">Suhail Roushan</h1>
 <h2 align="center">Fellow at CS.CODE.IN Class of 2021 </h2>
 
+<a href="https://app.daily.dev/suhailroushan"><img src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=gb4" width="300" height="400" alt="Suhail Roushan's Dev Card"/></a>
+
  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"><br>
 I'm [𝗦𝘂𝗵𝗮𝗶𝗹 𝗥𝗼𝘂𝘀𝗵𝗮𝗻](https://suhailroushan.com) a 20-Year-Old Senior with an Undergraduate in 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 from 𝗟𝗼𝗿𝗱𝘀 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆,Hyderabad.<br>
 
-
-<a href="https://app.daily.dev/suhailroushan"><img src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=gb4" width="300" height="400" alt="Suhail Roushan's Dev Card"/></a>
 
 𝗛𝗼𝘄 𝗖𝗮𝗻 𝗜 𝗛𝗲𝗹𝗽 𝗬𝗼𝘂?<br>
 Having an Experience in 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 & 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲𝘀 . Love to 𝗘𝗱𝗶𝘁 things Like photos & Video Using 𝗔𝗱𝗼𝗯𝗲 Software Like Photoshop, Illustrator, Premier Pro. A 𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿 from Neumorphism and Glassmorphism<br>
