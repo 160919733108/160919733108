@@ -2,16 +2,16 @@
 <h1 align="center">Suhail Roushan</h1>
 <h2 align="center">Fellow at CS.CODE.IN Class of 2021 </h2>
 
- <a href="https://app.daily.dev/suhailroushan"><img src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=gb4" width="160" height="200" alt="Suhail Roushan's Dev Card"/></a>
+<!--  <a href="https://app.daily.dev/suhailroushan"><img src="https://api.daily.dev/devcards/ed8c407f7e92461aacc2a08689397203.png?r=gb4" width="160" height="200" alt="Suhail Roushan's Dev Card"/></a> -->
 
  <br> 📌 Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20"><br>
-I'm [𝗦𝘂𝗵𝗮𝗶𝗹 𝗥𝗼𝘂𝘀𝗵𝗮𝗻](https://suhailroushan.com) A Pre - Final Year Engineering Student practicing in 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 from 𝗟𝗼𝗿𝗱𝘀 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆,Hyderabad.<br>
+I'm [𝗦𝘂𝗵𝗮𝗶𝗹 𝗥𝗼𝘂𝘀𝗵𝗮𝗻](https://suhailroushan.com) A Pre - Final Year Engineering Student practicing in 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 from 𝗟𝗼𝗿𝗱𝘀 𝗜𝗻𝘀𝘁𝗶𝘁𝘂𝘁𝗲 𝗼𝗳 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗮𝗻𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆,Hyderabad. I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.<br>
 
 📌 𝗛𝗼𝘄 𝗖𝗮𝗻 𝗜 𝗛𝗲𝗹𝗽 𝗬𝗼𝘂?<br>
 Having an Experience in 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 & 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗲𝘀 . Love to 𝗘𝗱𝗶𝘁 things Like photos & Video Using 𝗔𝗱𝗼𝗯𝗲 Software Like Photoshop, Illustrator, Premier Pro. A 𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿 of Neumorphism and Glassmorphism<br>
 
 📌𝗔 𝗙𝗲𝘄 𝗪𝗼𝗿𝗱𝘀 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 :<br>
-A Guy with having Creativity + Coding Knowledge to Build Products which would Help people by using them. I would like to Solve problems using Updated Technology and making it more helpful. Programming isn't about what you know; it's about what you can figure out<br>
+ A Guy with having Creativity + Coding Knowledge to Build Products which would Help people by using them. I would like to Solve problems using Updated Technology and making it more helpful. Programming isn't about what you know; it's about what you can figure out<br>
 
 **Obsessed with** <br>
 ✔️ Startups🚀 
@@ -27,7 +27,7 @@ A Guy with having Creativity + Coding Knowledge to Build Products which would He
 - [Track My Bus 🚌](https://trackmybus.tech) It's an Application which Tracks the Real-Time Location of College Buses. (Live) 🟢  Available on [Play Store](https://play.google.com/store/apps/details?id=com.w8india.w8)<br> 
 - [365Days.codes 💻](https://github.com/suhailroushan13/365days.codes) Its a Repository Where you can Learn Programming In C Language(Easy Way).(Live) 🟢 Available on [GitHub Repo 📁](https://github.com/suhailroushan13/365days.codes) 
 
-<hr />
+
 
 𝗢𝗻 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀 : <br>
 
@@ -60,10 +60,22 @@ A Guy with having Creativity + Coding Knowledge to Build Products which would He
   <img src="https://profile-counter.glitch.me/suhailroushan13/count.svg" />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suhailroushan13&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 <h2 align="left">:handshake: Let's get connected:</h2>
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/suhailroushan/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/suhailroushan.in"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://suhailroushan.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-suhailroushan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suhailroushan/)](https://www.linkedin.com/in/suhailroushan/) [![Twitter
 Badge](https://img.shields.io/badge/-@suhailroushan13-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/suhailroushan13)](https://twitter.com/suhailroushan13) [![Facebook
 Badge](https://img.shields.io/badge/-@suhailroushan13-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/your.suhailroushan/)](https://www.facebook.com/your.suhailroushan/) [![Instagram
 Badge](https://img.shields.io/badge/-@suhailroushan.in-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/suhailroushan.in/)](https://www.instagram.com/suhailroushan.in/)
 [![Linkedin Badge](https://img.shields.io/badge/-suhailroushan.com-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://suhailroushan.com/)](https://suhailroushan.com/)
+
